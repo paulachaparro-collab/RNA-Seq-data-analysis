@@ -1,0 +1,20 @@
+name: env_tesis
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - matplotlib
+  - biopython
+  - python=3.11
+  - pysradb
+  - sra-tools
+  - fastqc
+  - fastp
+  - hisat2
+  - samtools
+  - pandoc
+  - tectonic
+prefix: /home/paula.chaparro/miniconda3/envs/env_tesis
