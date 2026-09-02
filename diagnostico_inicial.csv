@@ -1,0 +1,2 @@
+timestamp,python_version,sistema_operativo,cpu_fisicas,cpu_logicas,ram_total_GB,ram_disponible_GB,disco_total_GB,disco_usado_GB,disco_libre_GB,environment_path,environment_size_GB,project_size_GB,data_size_GB,results_size_GB,tmp_size_GB
+2026-09-01T19:54:25,3.11.11,Linux-5.15.213-150.251.amzn2.x86_64-x86_64-with-glibc2.26,1,2,7.61,5.71,98.25,55.14,43.09,/home/paula.chaparro/miniconda3/envs/env_tesis,6.27,16.62,16.62,0.0,0.0
